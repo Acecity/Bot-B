@@ -1,0 +1,5 @@
+{
+  "name": "Nexus-Alpha WhatsApp Bot",
+  "description": "A WhatsApp bot boilerplate using Baileys with real-time QR code scanning.",
+  "requestFramePermissions": []
+}
